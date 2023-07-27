@@ -31,5 +31,6 @@ module.exports = {
     '@typescript-eslint/no-explicit-any': 'off',
     'no-undef': 'off',
     'prettier/prettier': 'off',
+    'vue/multi-word-component-names': 'off'
   },
 };
